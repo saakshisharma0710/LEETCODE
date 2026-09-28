@@ -12,6 +12,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/saakshisharma0710/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saakshisharma0710/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
