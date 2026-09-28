@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/saakshisharma0710/LEETCODE/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/saakshisharma0710/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/saakshisharma0710/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/saakshisharma0710/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
