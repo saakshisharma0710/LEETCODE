@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/saakshisharma0710/LEETCODE/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakshisharma0710/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saakshisharma0710/LEETCODE/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/saakshisharma0710/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -100,6 +102,19 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
