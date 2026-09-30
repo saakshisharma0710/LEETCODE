@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saakshisharma0710/LEETCODE/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/saakshisharma0710/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/saakshisharma0710/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
