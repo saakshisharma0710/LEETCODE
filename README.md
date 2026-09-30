@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/saakshisharma0710/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/saakshisharma0710/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saakshisharma0710/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saakshisharma0710/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
