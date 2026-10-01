@@ -32,6 +32,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/saakshisharma0710/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
