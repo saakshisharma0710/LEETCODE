@@ -101,6 +101,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
