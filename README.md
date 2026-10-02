@@ -23,6 +23,7 @@
 | [0994-rotting-oranges](https://github.com/saakshisharma0710/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saakshisharma0710/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saakshisharma0710/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Prefix Sum
 |  |
@@ -82,6 +83,7 @@
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -160,4 +163,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
