@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saakshisharma0710/LEETCODE/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/saakshisharma0710/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@
 | [0007-reverse-integer](https://github.com/saakshisharma0710/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -138,4 +140,24 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
