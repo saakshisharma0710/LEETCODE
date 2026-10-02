@@ -78,6 +78,7 @@
 | [0009-palindrome-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
