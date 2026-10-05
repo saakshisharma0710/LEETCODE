@@ -5,11 +5,9 @@ public:
         map<char, char> k = {{'(', ')'}, {'{', '}'}, {'[', ']'}};
         stack<char> st;
         for (int i = 0; i < n; i++) {
-            //Opening bracket
             if (k.find(s[i]) != k.end()) {
                 st.push(s[i]);
             }
-            // Closing bracket
             else {
                 if (st.empty()) {
                     return false;
