@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/saakshisharma0710/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saakshisharma0710/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/saakshisharma0710/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
