@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saakshisharma0710/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/saakshisharma0710/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saakshisharma0710/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
