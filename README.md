@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/saakshisharma0710/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/saakshisharma0710/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -116,6 +117,7 @@
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -127,16 +129,19 @@
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saakshisharma0710/LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -197,9 +202,15 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
