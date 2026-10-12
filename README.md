@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/saakshisharma0710/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/saakshisharma0710/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakshisharma0710/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 ## Enumeration
 |  |
 | ------- |
