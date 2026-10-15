@@ -49,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saakshisharma0710/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakshisharma0710/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -93,6 +94,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saakshisharma0710/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
@@ -152,6 +154,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saakshisharma0710/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/saakshisharma0710/LEETCODE/tree/master/0242-valid-anagram) |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saakshisharma0710/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
