@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saakshisharma0710/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/saakshisharma0710/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakshisharma0710/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
