@@ -166,6 +166,7 @@
 | [0344-reverse-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
