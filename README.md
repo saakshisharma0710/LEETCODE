@@ -54,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saakshisharma0710/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/saakshisharma0710/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/saakshisharma0710/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saakshisharma0710/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/saakshisharma0710/LEETCODE/tree/master/0198-house-robber) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/saakshisharma0710/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/saakshisharma0710/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saakshisharma0710/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saakshisharma0710/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saakshisharma0710/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
