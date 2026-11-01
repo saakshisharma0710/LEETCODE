@@ -52,6 +52,7 @@
 | [0739-daily-temperatures](https://github.com/saakshisharma0710/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [0344-reverse-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bracket Sequences
 |  |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/saakshisharma0710/LEETCODE/tree/master/0322-coin-change) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/saakshisharma0710/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
