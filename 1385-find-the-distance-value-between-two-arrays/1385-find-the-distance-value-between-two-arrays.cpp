@@ -16,3 +16,4 @@ public:
         return counter;
     }
 };
+// we can optimize it using sort and binary search!!!!!!!
