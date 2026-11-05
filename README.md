@@ -33,6 +33,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/saakshisharma0710/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saakshisharma0710/LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saakshisharma0710/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +135,7 @@
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/saakshisharma0710/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
@@ -159,6 +162,7 @@
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/saakshisharma0710/LEETCODE/tree/master/2706-buy-two-chocolates) |
