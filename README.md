@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/saakshisharma0710/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/saakshisharma0710/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/saakshisharma0710/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/saakshisharma0710/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -143,6 +144,7 @@
 | [0074-search-a-2d-matrix](https://github.com/saakshisharma0710/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/saakshisharma0710/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/saakshisharma0710/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
