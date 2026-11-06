@@ -17,6 +17,6 @@ public:
         }
         xor1 = xor1 ^ n;
         return xor1 ^ xor2;
-
+        //XOR : most optimal - agar size bhut bada hua lets say 10^5 toh sum of whole array kafi bada hoga and store k liye kafi memory jayega  
     }
 };
