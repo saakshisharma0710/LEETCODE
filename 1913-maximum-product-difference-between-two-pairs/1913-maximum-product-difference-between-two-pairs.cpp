@@ -7,6 +7,7 @@ public:
         int ans = -((nums[0] * nums[1] )- (nums[n-1] * nums[n-2]));
         return ans;
         */
+        //// sort function : O(n log n) time complexity
         int n = nums.size();
 
         int largest = nums[0];
@@ -34,5 +35,6 @@ public:
         }
 
         return (largest * slargest) - (small * ssmall);
+        // this will do in O(n) time 
     }
 };
