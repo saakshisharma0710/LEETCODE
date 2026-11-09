@@ -40,6 +40,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saakshisharma0710/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakshisharma0710/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/saakshisharma0710/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,6 +184,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/saakshisharma0710/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saakshisharma0710/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saakshisharma0710/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/saakshisharma0710/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
